@@ -956,7 +956,7 @@ h5,
 .intro-section,
 .intro-section .container .row {
   height: 100vh;
-  min-height: 800px;
+  min-height: 700px;
 }
 .intro-section:before {
   content: "";
@@ -991,7 +991,7 @@ h5,
 }
 
 .site-section {
-  padding: 10em 0;
+  padding: 5em 0;
 }
 @media (max-width: 991.98px) {
   .site-section {

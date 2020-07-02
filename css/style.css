@@ -888,7 +888,7 @@ h5,
 .sticky-wrapper.is-sticky .site-navbar {
   -webkit-box-shadow: 4px 0 20px -5px rgba(0, 0, 0, 0.2);
   box-shadow: 4px 0 20px -5px rgba(0, 0, 0, 0.2);
-  background: #fff;
+  background: #352961;
 }
 .sticky-wrapper.is-sticky .site-navbar .site-logo a {
   color: #000;

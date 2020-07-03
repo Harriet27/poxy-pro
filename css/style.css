@@ -991,11 +991,11 @@ h5,
 }
 
 .site-section {
-  padding: 5em 0;
+  padding: 1em 0em 2em 0em;
 }
 @media (max-width: 991.98px) {
   .site-section {
-    padding: 4em 0;
+    padding: 1em 0em 1.5em 0em;
   }
 }
 

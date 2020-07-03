@@ -1399,7 +1399,7 @@ h5,
   padding: 28px 30px;
   position: relative;
   background: #dc3545;
-  float: left;
+  /* float: left; */
 }
 .custom-owl-carousel .owl-custom-direction a:first-child {
   border-top-left-radius: 4px;
